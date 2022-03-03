@@ -1,7 +1,7 @@
 ## A normal digital samurai.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusiflinurlan&background=0d111700&border=d29922&ring=cf222e&theme=elegant)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusiflinurlan&background=0d111700&ring=cf222e&theme=elegant)](https://git.io/streak-stats)
 <hr>
 <h3>Where to find me:</h3>
 <p><a href="https://github.com/yusiflinurlan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=black" /></a> <a href="https://twitter.com/yusiflinurlan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a> <a href="https://www.linkedin.com/in/nurlan-yusifli-806a971a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a>
