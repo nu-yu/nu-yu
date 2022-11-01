@@ -14,7 +14,7 @@
     <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
