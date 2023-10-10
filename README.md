@@ -1,6 +1,5 @@
 ## A normal digital samurai.
 
-<h3>Where to find me:</h3>
 <p><a href="https://github.com/nurlaney" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&color=black" /></a> <a href="https://twitter.com/yusiflinurlan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a> <a href="https://www.linkedin.com/in/nurlan-yusifli-806a971a2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a><a href="https://mock.hashnode.dev" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white&color=black" /></a><a href="https://yusiflinurlan.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>
 </p>
 
