@@ -1,4 +1,4 @@
-## A normal digital samurai.
+## Your friendly neighborhood frontend.
 
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
