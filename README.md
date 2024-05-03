@@ -1,4 +1,4 @@
-## Your friendly neighborhood frontend.
+## Your friendly neighborhood engineer.
 
 <div>
     <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
